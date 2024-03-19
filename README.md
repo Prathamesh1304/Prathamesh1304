@@ -1,9 +1,9 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)(https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Prathamesh Pandhare</h1>
 <h3 align="center">I’m Web Developer</h3>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sambhaji6529&label=Profile%20views&color=0e75b6&style=flat" alt="sambhaji6529" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathamesh1304&label=Profile%20views&color=0e75b6&style=flat" alt="Prathamesh1304" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, AI,AWS,Web Development etc.**
 
