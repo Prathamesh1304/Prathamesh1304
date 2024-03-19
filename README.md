@@ -1,4 +1,4 @@
-
+<img align="top" alt="logo" height=350 width=950 src="https://github.com/Sambhaji6529/Sambhaji6529/blob/main/Top_Data_Science_Facts.avif" />
 <h1 align="center">Hi 👋, I'm Prathamesh Pandhare</h1>
 <h3 align="center">I’m Web Developer</h3>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
